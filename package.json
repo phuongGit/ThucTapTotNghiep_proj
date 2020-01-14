@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "arduino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongGit/ThucTapTotNghiep_proj.git"
+  },
+  "author": "phuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongGit/ThucTapTotNghiep_proj/issues"
+  },
+  "homepage": "https://github.com/phuongGit/ThucTapTotNghiep_proj#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
