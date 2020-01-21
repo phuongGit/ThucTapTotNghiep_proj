@@ -12,7 +12,7 @@ var app = express();
 
 // view engine setup
 var hbsConfig = expHbs.create({
-	layoutsDir: path.join(__dirname, '/template/'+ settings.defaultTemplate + '/layouts');
+	layoutsDir: path.join(__dirname, '/template/' + settings.defaultTemplate + '/layouts');
 });
 
 
